@@ -23,7 +23,7 @@ const certificados = [
     institution: "Centro Universitário Sagrado Coração",
     year: "2025",
     hours: "",
-    pdf: "/pdf/jornada.pdf",
+    pdf: "/pdf/segundo.pdf",
   },
   {
     id: 3,
