@@ -3,24 +3,7 @@
 import Link from "next/link";
 import { motion, Variants } from "framer-motion";
 import { ArrowLeft, Download } from "lucide-react";
-
-// Mock data - será substituído pelos PDFs reais
-const curriculos = [
-  {
-    id: 1,
-    title: "Currículo Completo",
-    description: "Formação acadêmica, experiências e especializações",
-    pdfUrl: "/curriculos/curriculo-completo.pdf",
-    year: "2024",
-  },
-  {
-    id: 2,
-    title: "Currículo Lattes",
-    description: "Plataforma Lattes CNPq",
-    pdfUrl: "/curriculos/curriculo-lattes.pdf",
-    year: "2024",
-  },
-];
+import curriculos from "@/data/curriculos.json";
 
 export default function Curriculo() {
   const containerVariants = {
