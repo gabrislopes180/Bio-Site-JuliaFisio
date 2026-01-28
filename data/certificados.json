@@ -46,15 +46,15 @@
     "institution": "Centro Universitário Sagrado Coração",
     "year": "2022",
     "hours": "15h/aula",
-    "pdf": "//pdf/Cinesiologia.pdf"
+    "pdf": "/pdf/Cinesiologia.pdf"
   },
   {
     "id": 7,
-    "title": "Certificado",
+    "title": "Curso para Neuro",
     "institution": "Unisagrado",
-    "year": "2023",
-    "hours": "450",
-    "pdf": "/pdf/1769641522975-Meu_curriculo_Setembro_2025 - Gabriel S. Lopes.pdf"
+    "year": "2022",
+    "hours": "250",
+    "pdf": "/pdf/1769641522994-Meu_curriculo_Setembro_2025 - Gabriel S. Lopes.pdf"
   }
 ]
 ```
